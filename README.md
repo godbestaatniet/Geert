@@ -1,2 +1,2 @@
-# Geert
-First attempt
+# Werkgroep Veranderlijke Sterren
+Eerste versie
